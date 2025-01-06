@@ -26,7 +26,10 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+<<<<<<< HEAD
 # 특정 데이터셋 디렉토리 제외
+=======
+>>>>>>> temp_branch
 dogs-vs-cats/
 dogs-vs-cats/**/*
 cats_vs_dogs_small/
