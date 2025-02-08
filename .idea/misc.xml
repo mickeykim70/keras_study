@@ -22,5 +22,5 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="tf" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="tf_env" project-jdk-type="Python SDK" />
 </project>
